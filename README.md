@@ -1,11 +1,4 @@
-# Solar Power Prediction (Pune, India)
-
-**Candidate / Author:** [YOUR NAME]  
-**Location:** Pune, Maharashtra, India (Latitude: 18.52, Longitude: 73.86)  
-
-A machine learning project to predict hourly solar power output (kW) in Pune using weather data and a 48-hour forecast from Open-Meteo.
-
----
+# Solar Power Prediction 
 
 ## 1. Project Overview
 Solar power depends on daylight and weather conditions like cloud cover, temperature, and humidity. This project:
